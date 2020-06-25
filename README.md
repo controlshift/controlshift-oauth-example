@@ -14,6 +14,6 @@ Follow the prompts to convert the authorization code into a token that can be us
 
 If everything is working correctly, should get back a response like this:
 
-```json
+```ruby
 {"organisation"=>{"slug"=>"foo", "petitions_count"=>3, "signatures_count"=>4, "blast_emails_count"=>0, "members_count"=>5}}
 ```
