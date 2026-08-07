@@ -1,3 +1,5 @@
+**This repository is deprecated. For an example of accessing the authenticated REST API using Oauth, see [oauth-api-example](https://github.com/controlshift/oauth-api-example). Or avoid Oauth entirely and use [API keys](https://developers.controlshiftlabs.com/#authenticated-rest-api-getting-started-using-api-keys).**
+
 # controlshift-oauth-example
 Very, very, simple example code for using OAuth API from ruby
 
